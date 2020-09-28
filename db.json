@@ -1,0 +1,49 @@
+{
+	"logs": [
+		{
+			"id": 1,
+			"message": "Changed Hard Drive on workstation 005",
+			"attention": false,
+			"date": "03-02-2019",
+			"tech": "Smith Sam"
+		},
+		{
+			"id": 2,
+			"message": "Changed Keyboard on workstation 007",
+			"attention": true,
+			"date": "03-02-2019",
+			"tech": "Jhon D"
+		},
+		{
+			"id": 3,
+			"message": "Changed Meeting session 008",
+			"attention": false,
+			"date": "03-04-2019",
+			"tech": "Peter England"
+		},
+		{
+			"id": 1,
+			"message": "Changed Mouse on workstation 005",
+			"attention": false,
+			"date": "03-05-2019",
+			"tech": "Myntra M"
+		}
+	],
+	"tech": [
+		{
+			"id": 1,
+			"firstname": "Smith",
+			"lastname": "Sam"
+		},
+		{
+			"id": 1,
+			"firstname": "Smith",
+			"lastname": "Sam"
+		},
+		{
+			"id": 1,
+			"firstname": "Smith",
+			"lastname": "Sam"
+		}
+	]
+}
